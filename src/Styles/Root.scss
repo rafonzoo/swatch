@@ -1,0 +1,38 @@
+@import './Module/variables';
+@import './Module/mixins';
+
+:root {
+  @each $name, $value in $system-color {
+    --color-#{$name}: #{$value};
+  }
+}
+
+[data-theme=light] {
+  background-color: var(--color-white);
+  color: var(--color-black);
+}
+
+[data-theme=dark] {
+  background-color: var(--color-black);
+  color: var(--color-white);
+}
+
+.component {
+  &::before,
+  &::after {
+    content: ' ';
+    display: table;
+    table-layout: fixed;
+    clear: both;
+  }
+}
+
+.placeholder {
+  opacity: 1;
+  transition: opacity 200ms ease;
+  will-change: opacity;
+}
+
+img.lazy {
+  opacity: 0;
+}

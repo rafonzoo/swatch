@@ -1,0 +1,2342 @@
+[
+  {
+    "id": 1,
+    "title": "Starlight Aluminum Case with Solo Loop",
+    "slug": "starlight-aluminum-case-with-solo-loop?color=English+Lavender",
+    "images": "aluminum/starlight/solo-loop/01-english-lavender.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 0,
+      "name": "English Lavender",
+      "images": [
+        "solo-loop/english-lavender",
+        "solo-loop/marigold",
+        "solo-loop/dark-cherry",
+        "solo-loop/clover",
+        "solo-loop/chalk-pink",
+        "solo-loop/abyss-blue",
+        "solo-loop/starlight"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Solo Loop",
+        "color": "English Lavender"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "title": "Starlight Aluminum Case with Solo Loop",
+    "slug": "starlight-aluminum-case-with-solo-loop?color=Marigold",
+    "images": "aluminum/starlight/solo-loop/02-marigold.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 1,
+      "name": "Marigold",
+      "images": [
+        "solo-loop/english-lavender",
+        "solo-loop/marigold",
+        "solo-loop/dark-cherry",
+        "solo-loop/clover",
+        "solo-loop/chalk-pink",
+        "solo-loop/abyss-blue",
+        "solo-loop/starlight"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Solo Loop",
+        "color": "Marigold"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "title": "Starlight Aluminum Case with Solo Loop",
+    "slug": "starlight-aluminum-case-with-solo-loop?color=Dark+Cherry",
+    "images": "aluminum/starlight/solo-loop/03-dark-cherry.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 2,
+      "name": "Dark Cherry",
+      "images": [
+        "solo-loop/english-lavender",
+        "solo-loop/marigold",
+        "solo-loop/dark-cherry",
+        "solo-loop/clover",
+        "solo-loop/chalk-pink",
+        "solo-loop/abyss-blue",
+        "solo-loop/starlight"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Solo Loop",
+        "color": "Dark Cherry"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "title": "Starlight Aluminum Case with Solo Loop",
+    "slug": "starlight-aluminum-case-with-solo-loop?color=Clover",
+    "images": "aluminum/starlight/solo-loop/04-clover.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 3,
+      "name": "Clover",
+      "images": [
+        "solo-loop/english-lavender",
+        "solo-loop/marigold",
+        "solo-loop/dark-cherry",
+        "solo-loop/clover",
+        "solo-loop/chalk-pink",
+        "solo-loop/abyss-blue",
+        "solo-loop/starlight"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Solo Loop",
+        "color": "Clover"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "title": "Starlight Aluminum Case with Solo Loop",
+    "slug": "starlight-aluminum-case-with-solo-loop?color=Chalk+Pink",
+    "images": "aluminum/starlight/solo-loop/05-chalk-pink.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 4,
+      "name": "Chalk Pink",
+      "images": [
+        "solo-loop/english-lavender",
+        "solo-loop/marigold",
+        "solo-loop/dark-cherry",
+        "solo-loop/clover",
+        "solo-loop/chalk-pink",
+        "solo-loop/abyss-blue",
+        "solo-loop/starlight"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Solo Loop",
+        "color": "Chalk Pink"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "title": "Starlight Aluminum Case with Solo Loop",
+    "slug": "starlight-aluminum-case-with-solo-loop?color=Abyss+Blue",
+    "images": "aluminum/starlight/solo-loop/06-abyss-blue.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 5,
+      "name": "Abyss Blue",
+      "images": [
+        "solo-loop/english-lavender",
+        "solo-loop/marigold",
+        "solo-loop/dark-cherry",
+        "solo-loop/clover",
+        "solo-loop/chalk-pink",
+        "solo-loop/abyss-blue",
+        "solo-loop/starlight"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Solo Loop",
+        "color": "Abyss Blue"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "title": "Starlight Aluminum Case with Solo Loop",
+    "slug": "starlight-aluminum-case-with-solo-loop?color=Starlight",
+    "images": "aluminum/starlight/solo-loop/07-starlight.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 6,
+      "name": "Starlight",
+      "images": [
+        "solo-loop/english-lavender",
+        "solo-loop/marigold",
+        "solo-loop/dark-cherry",
+        "solo-loop/clover",
+        "solo-loop/chalk-pink",
+        "solo-loop/abyss-blue",
+        "solo-loop/starlight"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Solo Loop",
+        "color": "Starlight"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "title": "Starlight Aluminum Case with Braided Solo Loop",
+    "slug": "starlight-aluminum-case-with-braided-solo-loop?color=English+Lavender",
+    "images": "aluminum/starlight/braided-solo-loop/01-english-lavender.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 0,
+      "name": "English Lavender",
+      "images": [
+        "braided-solo-loop/english-lavender",
+        "braided-solo-loop/maize",
+        "braided-solo-loop/dark-cherry",
+        "braided-solo-loop/abyss-blue",
+        "braided-solo-loop/pride-edition",
+        "braided-solo-loop/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Braided Solo Loop",
+        "color": "English Lavender"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "title": "Starlight Aluminum Case with Braided Solo Loop",
+    "slug": "starlight-aluminum-case-with-braided-solo-loop?color=Maize",
+    "images": "aluminum/starlight/braided-solo-loop/02-maize.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 1,
+      "name": "Maize",
+      "images": [
+        "braided-solo-loop/english-lavender",
+        "braided-solo-loop/maize",
+        "braided-solo-loop/dark-cherry",
+        "braided-solo-loop/abyss-blue",
+        "braided-solo-loop/pride-edition",
+        "braided-solo-loop/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Braided Solo Loop",
+        "color": "Maize"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "title": "Starlight Aluminum Case with Braided Solo Loop",
+    "slug": "starlight-aluminum-case-with-braided-solo-loop?color=Dark+Cherry",
+    "images": "aluminum/starlight/braided-solo-loop/03-dark-cherry.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 2,
+      "name": "Dark Cherry",
+      "images": [
+        "braided-solo-loop/english-lavender",
+        "braided-solo-loop/maize",
+        "braided-solo-loop/dark-cherry",
+        "braided-solo-loop/abyss-blue",
+        "braided-solo-loop/pride-edition",
+        "braided-solo-loop/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Braided Solo Loop",
+        "color": "Dark Cherry"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "title": "Starlight Aluminum Case with Braided Solo Loop",
+    "slug": "starlight-aluminum-case-with-braided-solo-loop?color=Abyss+Blue",
+    "images": "aluminum/starlight/braided-solo-loop/04-abyss-blue.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 3,
+      "name": "Abyss Blue",
+      "images": [
+        "braided-solo-loop/english-lavender",
+        "braided-solo-loop/maize",
+        "braided-solo-loop/dark-cherry",
+        "braided-solo-loop/abyss-blue",
+        "braided-solo-loop/pride-edition",
+        "braided-solo-loop/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Braided Solo Loop",
+        "color": "Abyss Blue"
+      }
+    }
+  },
+  {
+    "id": 12,
+    "title": "Starlight Aluminum Case with Braided Solo Loop",
+    "slug": "starlight-aluminum-case-with-braided-solo-loop?color=Pride+Edition",
+    "images": "aluminum/starlight/braided-solo-loop/05-pride-edition.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 4,
+      "name": "Pride Edition",
+      "images": [
+        "braided-solo-loop/english-lavender",
+        "braided-solo-loop/maize",
+        "braided-solo-loop/dark-cherry",
+        "braided-solo-loop/abyss-blue",
+        "braided-solo-loop/pride-edition",
+        "braided-solo-loop/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Braided Solo Loop",
+        "color": "Pride Edition"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "title": "Starlight Aluminum Case with Braided Solo Loop",
+    "slug": "starlight-aluminum-case-with-braided-solo-loop?color=Product+Red",
+    "images": "aluminum/starlight/braided-solo-loop/06-product-red.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 5,
+      "name": "Product Red",
+      "images": [
+        "braided-solo-loop/english-lavender",
+        "braided-solo-loop/maize",
+        "braided-solo-loop/dark-cherry",
+        "braided-solo-loop/abyss-blue",
+        "braided-solo-loop/pride-edition",
+        "braided-solo-loop/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Braided Solo Loop",
+        "color": "Product Red"
+      }
+    }
+  },
+  {
+    "id": 14,
+    "title": "Starlight Aluminum Case with Sport Band",
+    "slug": "starlight-aluminum-case-with-sport-band?color=English+Lavender",
+    "images": "aluminum/starlight/sport-band/01-english-lavender.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 0,
+      "name": "English Lavender",
+      "images": [
+        "sport-band/english-lavender",
+        "sport-band/marigold",
+        "sport-band/dark-cherry",
+        "sport-band/clover",
+        "sport-band/abyss-blue",
+        "sport-band/midnight",
+        "sport-band/starlight",
+        "sport-band/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Sport Band",
+        "color": "English Lavender"
+      }
+    }
+  },
+  {
+    "id": 15,
+    "title": "Starlight Aluminum Case with Sport Band",
+    "slug": "starlight-aluminum-case-with-sport-band?color=Marigold",
+    "images": "aluminum/starlight/sport-band/02-marigold.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 1,
+      "name": "Marigold",
+      "images": [
+        "sport-band/english-lavender",
+        "sport-band/marigold",
+        "sport-band/dark-cherry",
+        "sport-band/clover",
+        "sport-band/abyss-blue",
+        "sport-band/midnight",
+        "sport-band/starlight",
+        "sport-band/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Sport Band",
+        "color": "Marigold"
+      }
+    }
+  },
+  {
+    "id": 16,
+    "title": "Starlight Aluminum Case with Sport Band",
+    "slug": "starlight-aluminum-case-with-sport-band?color=Dark+Cherry",
+    "images": "aluminum/starlight/sport-band/03-dark-cherry.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 2,
+      "name": "Dark Cherry",
+      "images": [
+        "sport-band/english-lavender",
+        "sport-band/marigold",
+        "sport-band/dark-cherry",
+        "sport-band/clover",
+        "sport-band/abyss-blue",
+        "sport-band/midnight",
+        "sport-band/starlight",
+        "sport-band/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Sport Band",
+        "color": "Dark Cherry"
+      }
+    }
+  },
+  {
+    "id": 17,
+    "title": "Starlight Aluminum Case with Sport Band",
+    "slug": "starlight-aluminum-case-with-sport-band?color=Clover",
+    "images": "aluminum/starlight/sport-band/04-clover.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 3,
+      "name": "Clover",
+      "images": [
+        "sport-band/english-lavender",
+        "sport-band/marigold",
+        "sport-band/dark-cherry",
+        "sport-band/clover",
+        "sport-band/abyss-blue",
+        "sport-band/midnight",
+        "sport-band/starlight",
+        "sport-band/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Sport Band",
+        "color": "Clover"
+      }
+    }
+  },
+  {
+    "id": 18,
+    "title": "Starlight Aluminum Case with Sport Band",
+    "slug": "starlight-aluminum-case-with-sport-band?color=Abyss+Blue",
+    "images": "aluminum/starlight/sport-band/05-abyss-blue.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 4,
+      "name": "Abyss Blue",
+      "images": [
+        "sport-band/english-lavender",
+        "sport-band/marigold",
+        "sport-band/dark-cherry",
+        "sport-band/clover",
+        "sport-band/abyss-blue",
+        "sport-band/midnight",
+        "sport-band/starlight",
+        "sport-band/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Sport Band",
+        "color": "Abyss Blue"
+      }
+    }
+  },
+  {
+    "id": 19,
+    "title": "Starlight Aluminum Case with Sport Band",
+    "slug": "starlight-aluminum-case-with-sport-band?color=Midnight",
+    "images": "aluminum/starlight/sport-band/06-midnight.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 5,
+      "name": "Midnight",
+      "images": [
+        "sport-band/english-lavender",
+        "sport-band/marigold",
+        "sport-band/dark-cherry",
+        "sport-band/clover",
+        "sport-band/abyss-blue",
+        "sport-band/midnight",
+        "sport-band/starlight",
+        "sport-band/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Sport Band",
+        "color": "Midnight"
+      }
+    }
+  },
+  {
+    "id": 20,
+    "title": "Starlight Aluminum Case with Sport Band",
+    "slug": "starlight-aluminum-case-with-sport-band?color=Starlight",
+    "images": "aluminum/starlight/sport-band/07-starlight.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 6,
+      "name": "Starlight",
+      "images": [
+        "sport-band/english-lavender",
+        "sport-band/marigold",
+        "sport-band/dark-cherry",
+        "sport-band/clover",
+        "sport-band/abyss-blue",
+        "sport-band/midnight",
+        "sport-band/starlight",
+        "sport-band/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Sport Band",
+        "color": "Starlight"
+      }
+    }
+  },
+  {
+    "id": 21,
+    "title": "Starlight Aluminum Case with Sport Band",
+    "slug": "starlight-aluminum-case-with-sport-band?color=Product+Red",
+    "images": "aluminum/starlight/sport-band/08-product-red.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 7,
+      "name": "Product Red",
+      "images": [
+        "sport-band/english-lavender",
+        "sport-band/marigold",
+        "sport-band/dark-cherry",
+        "sport-band/clover",
+        "sport-band/abyss-blue",
+        "sport-band/midnight",
+        "sport-band/starlight",
+        "sport-band/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Sport Band",
+        "color": "Product Red"
+      }
+    }
+  },
+  {
+    "id": 22,
+    "title": "Starlight Aluminum Case with Sport Loop",
+    "slug": "starlight-aluminum-case-with-sport-loop?color=Maize%2FWhite",
+    "images": "aluminum/starlight/sport-loop/01-maize-white.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 0,
+      "name": "Maize/White",
+      "images": [
+        "sport-loop/maize-white",
+        "sport-loop/pink-pomelo-tan",
+        "sport-loop/dark-cherry-forest-green",
+        "sport-loop/abyss-blue-moss-green",
+        "sport-loop/tornado-gray",
+        "sport-loop/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Sport Loop",
+        "color": "Maize/White"
+      }
+    }
+  },
+  {
+    "id": 23,
+    "title": "Starlight Aluminum Case with Sport Loop",
+    "slug": "starlight-aluminum-case-with-sport-loop?color=Pink+Pomelo%2FTan",
+    "images": "aluminum/starlight/sport-loop/02-pink-pomelo-tan.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 1,
+      "name": "Pink Pomelo/Tan",
+      "images": [
+        "sport-loop/maize-white",
+        "sport-loop/pink-pomelo-tan",
+        "sport-loop/dark-cherry-forest-green",
+        "sport-loop/abyss-blue-moss-green",
+        "sport-loop/tornado-gray",
+        "sport-loop/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Sport Loop",
+        "color": "Pink Pomelo/Tan"
+      }
+    }
+  },
+  {
+    "id": 24,
+    "title": "Starlight Aluminum Case with Sport Loop",
+    "slug": "starlight-aluminum-case-with-sport-loop?color=Dark+Cherry%2FForest+Green",
+    "images": "aluminum/starlight/sport-loop/03-dark-cherry-forest-green.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 2,
+      "name": "Dark Cherry/Forest Green",
+      "images": [
+        "sport-loop/maize-white",
+        "sport-loop/pink-pomelo-tan",
+        "sport-loop/dark-cherry-forest-green",
+        "sport-loop/abyss-blue-moss-green",
+        "sport-loop/tornado-gray",
+        "sport-loop/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Sport Loop",
+        "color": "Dark Cherry/Forest Green"
+      }
+    }
+  },
+  {
+    "id": 25,
+    "title": "Starlight Aluminum Case with Sport Loop",
+    "slug": "starlight-aluminum-case-with-sport-loop?color=Abyss+Blue%2FMoss+Green",
+    "images": "aluminum/starlight/sport-loop/04-abyss-blue-moss-green.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 3,
+      "name": "Abyss Blue/Moss Green",
+      "images": [
+        "sport-loop/maize-white",
+        "sport-loop/pink-pomelo-tan",
+        "sport-loop/dark-cherry-forest-green",
+        "sport-loop/abyss-blue-moss-green",
+        "sport-loop/tornado-gray",
+        "sport-loop/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Sport Loop",
+        "color": "Abyss Blue/Moss Green"
+      }
+    }
+  },
+  {
+    "id": 26,
+    "title": "Starlight Aluminum Case with Sport Loop",
+    "slug": "starlight-aluminum-case-with-sport-loop?color=Tornado%2FGray",
+    "images": "aluminum/starlight/sport-loop/05-tornado-gray.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 4,
+      "name": "Tornado/Gray",
+      "images": [
+        "sport-loop/maize-white",
+        "sport-loop/pink-pomelo-tan",
+        "sport-loop/dark-cherry-forest-green",
+        "sport-loop/abyss-blue-moss-green",
+        "sport-loop/tornado-gray",
+        "sport-loop/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Sport Loop",
+        "color": "Tornado/Gray"
+      }
+    }
+  },
+  {
+    "id": 27,
+    "title": "Starlight Aluminum Case with Sport Loop",
+    "slug": "starlight-aluminum-case-with-sport-loop?color=Product+Red",
+    "images": "aluminum/starlight/sport-loop/06-product-red.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 5,
+      "name": "Product Red",
+      "images": [
+        "sport-loop/maize-white",
+        "sport-loop/pink-pomelo-tan",
+        "sport-loop/dark-cherry-forest-green",
+        "sport-loop/abyss-blue-moss-green",
+        "sport-loop/tornado-gray",
+        "sport-loop/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Sport Loop",
+        "color": "Product Red"
+      }
+    }
+  },
+  {
+    "id": 28,
+    "title": "Green Aluminum Case with Leather Link",
+    "slug": "green-aluminum-case-with-leather-link?color=Golden+Brown",
+    "images": "aluminum/green/leather/leather-link/01-golden-brown.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 0,
+      "name": "Golden Brown",
+      "images": [
+        "leather-link/golden-brown",
+        "leather-link/dark-cherry",
+        "leather-link/sequoia-green",
+        "leather-link/midnight"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Green"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Golden Brown"
+      }
+    }
+  },
+  {
+    "id": 29,
+    "title": "Green Aluminum Case with Leather Link",
+    "slug": "green-aluminum-case-with-leather-link?color=Dark+Cherry",
+    "images": "aluminum/green/leather/leather-link/02-dark-cherry.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 1,
+      "name": "Dark Cherry",
+      "images": [
+        "leather-link/golden-brown",
+        "leather-link/dark-cherry",
+        "leather-link/sequoia-green",
+        "leather-link/midnight"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Green"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Dark Cherry"
+      }
+    }
+  },
+  {
+    "id": 30,
+    "title": "Green Aluminum Case with Leather Link",
+    "slug": "green-aluminum-case-with-leather-link?color=Sequoia+Green",
+    "images": "aluminum/green/leather/leather-link/03-sequoia-green.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 2,
+      "name": "Sequoia Green",
+      "images": [
+        "leather-link/golden-brown",
+        "leather-link/dark-cherry",
+        "leather-link/sequoia-green",
+        "leather-link/midnight"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Green"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Sequoia Green"
+      }
+    }
+  },
+  {
+    "id": 31,
+    "title": "Green Aluminum Case with Leather Link",
+    "slug": "green-aluminum-case-with-leather-link?color=Midnight",
+    "images": "aluminum/green/leather/leather-link/04-midnight.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 3,
+      "name": "Midnight",
+      "images": [
+        "leather-link/golden-brown",
+        "leather-link/dark-cherry",
+        "leather-link/sequoia-green",
+        "leather-link/midnight"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Green"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Midnight"
+      }
+    }
+  },
+  {
+    "id": 32,
+    "title": "Product Red Aluminum Case with Braided Solo Loop",
+    "slug": "product-red-aluminum-case-with-braided-solo-loop?color=Product+Red",
+    "images": "aluminum/product-red/braided-solo-loop/01-product-red.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 0,
+      "name": "Product Red",
+      "images": [
+        "braided-solo-loop/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Product Red"
+      },
+      "band": {
+        "type": "Braided Solo Loop",
+        "color": "Product Red"
+      }
+    }
+  },
+  {
+    "id": 33,
+    "title": "Blue Aluminum Case with Sport Loop",
+    "slug": "blue-aluminum-case-with-sport-loop?color=Maize%2FWhite",
+    "images": "aluminum/blue/sport-loop/01-maize-white.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 0,
+      "name": "Maize/White",
+      "images": [
+        "sport-loop/maize-white",
+        "sport-loop/pink-pomelo-tan",
+        "sport-loop/dark-cherry-forest-green",
+        "sport-loop/abyss-blue-moss-green",
+        "sport-loop/tornado-gray",
+        "sport-loop/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Blue"
+      },
+      "band": {
+        "type": "Sport Loop",
+        "color": "Maize/White"
+      }
+    }
+  },
+  {
+    "id": 34,
+    "title": "Blue Aluminum Case with Sport Loop",
+    "slug": "blue-aluminum-case-with-sport-loop?color=Pink+Pomelo%2FTan",
+    "images": "aluminum/blue/sport-loop/02-pink-pomelo-tan.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 1,
+      "name": "Pink Pomelo/Tan",
+      "images": [
+        "sport-loop/maize-white",
+        "sport-loop/pink-pomelo-tan",
+        "sport-loop/dark-cherry-forest-green",
+        "sport-loop/abyss-blue-moss-green",
+        "sport-loop/tornado-gray",
+        "sport-loop/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Blue"
+      },
+      "band": {
+        "type": "Sport Loop",
+        "color": "Pink Pomelo/Tan"
+      }
+    }
+  },
+  {
+    "id": 35,
+    "title": "Blue Aluminum Case with Sport Loop",
+    "slug": "blue-aluminum-case-with-sport-loop?color=Dark+Cherry%2FForest+Green",
+    "images": "aluminum/blue/sport-loop/03-dark-cherry-forest-green.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 2,
+      "name": "Dark Cherry/Forest Green",
+      "images": [
+        "sport-loop/maize-white",
+        "sport-loop/pink-pomelo-tan",
+        "sport-loop/dark-cherry-forest-green",
+        "sport-loop/abyss-blue-moss-green",
+        "sport-loop/tornado-gray",
+        "sport-loop/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Blue"
+      },
+      "band": {
+        "type": "Sport Loop",
+        "color": "Dark Cherry/Forest Green"
+      }
+    }
+  },
+  {
+    "id": 36,
+    "title": "Blue Aluminum Case with Sport Loop",
+    "slug": "blue-aluminum-case-with-sport-loop?color=Abyss+Blue%2FMoss+Green",
+    "images": "aluminum/blue/sport-loop/04-abyss-blue-moss-green.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 3,
+      "name": "Abyss Blue/Moss Green",
+      "images": [
+        "sport-loop/maize-white",
+        "sport-loop/pink-pomelo-tan",
+        "sport-loop/dark-cherry-forest-green",
+        "sport-loop/abyss-blue-moss-green",
+        "sport-loop/tornado-gray",
+        "sport-loop/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Blue"
+      },
+      "band": {
+        "type": "Sport Loop",
+        "color": "Abyss Blue/Moss Green"
+      }
+    }
+  },
+  {
+    "id": 37,
+    "title": "Blue Aluminum Case with Sport Loop",
+    "slug": "blue-aluminum-case-with-sport-loop?color=Tornado%2FGray",
+    "images": "aluminum/blue/sport-loop/05-tornado-gray.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 4,
+      "name": "Tornado/Gray",
+      "images": [
+        "sport-loop/maize-white",
+        "sport-loop/pink-pomelo-tan",
+        "sport-loop/dark-cherry-forest-green",
+        "sport-loop/abyss-blue-moss-green",
+        "sport-loop/tornado-gray",
+        "sport-loop/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Blue"
+      },
+      "band": {
+        "type": "Sport Loop",
+        "color": "Tornado/Gray"
+      }
+    }
+  },
+  {
+    "id": 38,
+    "title": "Blue Aluminum Case with Sport Loop",
+    "slug": "blue-aluminum-case-with-sport-loop?color=Product+Red",
+    "images": "aluminum/blue/sport-loop/06-product-red.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 5,
+      "name": "Product Red",
+      "images": [
+        "sport-loop/maize-white",
+        "sport-loop/pink-pomelo-tan",
+        "sport-loop/dark-cherry-forest-green",
+        "sport-loop/abyss-blue-moss-green",
+        "sport-loop/tornado-gray",
+        "sport-loop/product-red"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Aluminum",
+        "finishes": "Blue"
+      },
+      "band": {
+        "type": "Sport Loop",
+        "color": "Product Red"
+      }
+    }
+  },
+  {
+    "id": 39,
+    "title": "Silver Stainless Steel Case with Modern Buckle",
+    "slug": "silver-stainless-steel-case-with-modern-buckle?color=Midnight",
+    "images": "stainless-steel/silver/leather/modern-buckle/01-midnight.jpg",
+    "stock": 8,
+    "price": 799,
+    "swatch": {
+      "current": 0,
+      "name": "Midnight",
+      "images": [
+        "modern-buckle/midnight",
+        "modern-buckle/wisteria",
+        "modern-buckle/chalk"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Stainless Steel",
+        "finishes": "Silver"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Midnight"
+      }
+    }
+  },
+  {
+    "id": 40,
+    "title": "Silver Stainless Steel Case with Modern Buckle",
+    "slug": "silver-stainless-steel-case-with-modern-buckle?color=Wisteria",
+    "images": "stainless-steel/silver/leather/modern-buckle/02-wisteria.jpg",
+    "stock": 8,
+    "price": 799,
+    "swatch": {
+      "current": 1,
+      "name": "Wisteria",
+      "images": [
+        "modern-buckle/midnight",
+        "modern-buckle/wisteria",
+        "modern-buckle/chalk"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Stainless Steel",
+        "finishes": "Silver"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Wisteria"
+      }
+    }
+  },
+  {
+    "id": 41,
+    "title": "Silver Stainless Steel Case with Modern Buckle",
+    "slug": "silver-stainless-steel-case-with-modern-buckle?color=Chalk",
+    "images": "stainless-steel/silver/leather/modern-buckle/03-chalk.jpg",
+    "stock": 8,
+    "price": 799,
+    "swatch": {
+      "current": 2,
+      "name": "Chalk",
+      "images": [
+        "modern-buckle/midnight",
+        "modern-buckle/wisteria",
+        "modern-buckle/chalk"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Stainless Steel",
+        "finishes": "Silver"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Chalk"
+      }
+    }
+  },
+  {
+    "id": 42,
+    "title": "Gold Stainless Steel Case with Leather Link",
+    "slug": "gold-stainless-steel-case-with-leather-link?color=Golden+Brown",
+    "images": "stainless-steel/gold/leather/leather-link/01-golden-brown.jpg",
+    "stock": 8,
+    "price": 749,
+    "swatch": {
+      "current": 0,
+      "name": "Golden Brown",
+      "images": [
+        "leather-link/golden-brown",
+        "leather-link/dark-cherry",
+        "leather-link/sequoia-green",
+        "leather-link/midnight"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Stainless Steel",
+        "finishes": "Gold"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Golden Brown"
+      }
+    }
+  },
+  {
+    "id": 43,
+    "title": "Gold Stainless Steel Case with Leather Link",
+    "slug": "gold-stainless-steel-case-with-leather-link?color=Dark+Cherry",
+    "images": "stainless-steel/gold/leather/leather-link/02-dark-cherry.jpg",
+    "stock": 8,
+    "price": 749,
+    "swatch": {
+      "current": 1,
+      "name": "Dark Cherry",
+      "images": [
+        "leather-link/golden-brown",
+        "leather-link/dark-cherry",
+        "leather-link/sequoia-green",
+        "leather-link/midnight"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Stainless Steel",
+        "finishes": "Gold"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Dark Cherry"
+      }
+    }
+  },
+  {
+    "id": 44,
+    "title": "Gold Stainless Steel Case with Leather Link",
+    "slug": "gold-stainless-steel-case-with-leather-link?color=Sequoia+Green",
+    "images": "stainless-steel/gold/leather/leather-link/03-sequoia-green.jpg",
+    "stock": 8,
+    "price": 749,
+    "swatch": {
+      "current": 2,
+      "name": "Sequoia Green",
+      "images": [
+        "leather-link/golden-brown",
+        "leather-link/dark-cherry",
+        "leather-link/sequoia-green",
+        "leather-link/midnight"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Stainless Steel",
+        "finishes": "Gold"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Sequoia Green"
+      }
+    }
+  },
+  {
+    "id": 45,
+    "title": "Gold Stainless Steel Case with Leather Link",
+    "slug": "gold-stainless-steel-case-with-leather-link?color=Midnight",
+    "images": "stainless-steel/gold/leather/leather-link/04-midnight.jpg",
+    "stock": 8,
+    "price": 749,
+    "swatch": {
+      "current": 3,
+      "name": "Midnight",
+      "images": [
+        "leather-link/golden-brown",
+        "leather-link/dark-cherry",
+        "leather-link/sequoia-green",
+        "leather-link/midnight"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Stainless Steel",
+        "finishes": "Gold"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Midnight"
+      }
+    }
+  },
+  {
+    "id": 46,
+    "title": "Graphite Stainless Steel Case with Milanese Loop",
+    "slug": "graphite-stainless-steel-case-with-milanese-loop?color=Silver",
+    "images": "stainless-steel/graphite/stainless-steels/milanese-loop/01-silver.jpg",
+    "stock": 8,
+    "price": 749,
+    "swatch": {
+      "current": 0,
+      "name": "Silver",
+      "images": [
+        "milanese-loop/silver",
+        "milanese-loop/gold",
+        "milanese-loop/graphite"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Stainless Steel",
+        "finishes": "Graphite"
+      },
+      "band": {
+        "type": "Stainless Steels",
+        "color": "Silver"
+      }
+    }
+  },
+  {
+    "id": 47,
+    "title": "Graphite Stainless Steel Case with Milanese Loop",
+    "slug": "graphite-stainless-steel-case-with-milanese-loop?color=Gold",
+    "images": "stainless-steel/graphite/stainless-steels/milanese-loop/02-gold.jpg",
+    "stock": 8,
+    "price": 749,
+    "swatch": {
+      "current": 1,
+      "name": "Gold",
+      "images": [
+        "milanese-loop/silver",
+        "milanese-loop/gold",
+        "milanese-loop/graphite"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Stainless Steel",
+        "finishes": "Graphite"
+      },
+      "band": {
+        "type": "Stainless Steels",
+        "color": "Gold"
+      }
+    }
+  },
+  {
+    "id": 48,
+    "title": "Graphite Stainless Steel Case with Milanese Loop",
+    "slug": "graphite-stainless-steel-case-with-milanese-loop?color=Graphite",
+    "images": "stainless-steel/graphite/stainless-steels/milanese-loop/03-graphite.jpg",
+    "stock": 8,
+    "price": 749,
+    "swatch": {
+      "current": 2,
+      "name": "Graphite",
+      "images": [
+        "milanese-loop/silver",
+        "milanese-loop/gold",
+        "milanese-loop/graphite"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Apple",
+        "material": "Stainless Steel",
+        "finishes": "Graphite"
+      },
+      "band": {
+        "type": "Stainless Steels",
+        "color": "Graphite"
+      }
+    }
+  },
+  {
+    "id": 49,
+    "title": "Starlight Aluminum Case with Nike Sport Band",
+    "slug": "starlight-aluminum-case-with-nike-sport-band?color=Magic+Ember%2FCrimson+Bliss",
+    "images": "aluminum/starlight/sport-band/nike-sport-band/01-magic-ember-crimson-bliss.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 0,
+      "name": "Magic Ember/Crimson Bliss",
+      "images": [
+        "nike-sport-band/magic-ember-crimson-bliss",
+        "nike-sport-band/olive-gray-cargo-khaki",
+        "nike-sport-band/midnight-navy-mystic-navy",
+        "nike-sport-band/anthracite-black",
+        "nike-sport-band/pure-platinum-black"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Nike",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Sport Band",
+        "color": "Magic Ember/Crimson Bliss"
+      }
+    }
+  },
+  {
+    "id": 50,
+    "title": "Starlight Aluminum Case with Nike Sport Band",
+    "slug": "starlight-aluminum-case-with-nike-sport-band?color=Olive+Gray%2FCargo+Khaki",
+    "images": "aluminum/starlight/sport-band/nike-sport-band/02-olive-gray-cargo-khaki.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 1,
+      "name": "Olive Gray/Cargo Khaki",
+      "images": [
+        "nike-sport-band/magic-ember-crimson-bliss",
+        "nike-sport-band/olive-gray-cargo-khaki",
+        "nike-sport-band/midnight-navy-mystic-navy",
+        "nike-sport-band/anthracite-black",
+        "nike-sport-band/pure-platinum-black"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Nike",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Sport Band",
+        "color": "Olive Gray/Cargo Khaki"
+      }
+    }
+  },
+  {
+    "id": 51,
+    "title": "Starlight Aluminum Case with Nike Sport Band",
+    "slug": "starlight-aluminum-case-with-nike-sport-band?color=Midnight+Navy%2FMystic+Navy",
+    "images": "aluminum/starlight/sport-band/nike-sport-band/03-midnight-navy-mystic-navy.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 2,
+      "name": "Midnight Navy/Mystic Navy",
+      "images": [
+        "nike-sport-band/magic-ember-crimson-bliss",
+        "nike-sport-band/olive-gray-cargo-khaki",
+        "nike-sport-band/midnight-navy-mystic-navy",
+        "nike-sport-band/anthracite-black",
+        "nike-sport-band/pure-platinum-black"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Nike",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Sport Band",
+        "color": "Midnight Navy/Mystic Navy"
+      }
+    }
+  },
+  {
+    "id": 52,
+    "title": "Starlight Aluminum Case with Nike Sport Band",
+    "slug": "starlight-aluminum-case-with-nike-sport-band?color=Anthracite%2FBlack",
+    "images": "aluminum/starlight/sport-band/nike-sport-band/04-anthracite-black.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 3,
+      "name": "Anthracite/Black",
+      "images": [
+        "nike-sport-band/magic-ember-crimson-bliss",
+        "nike-sport-band/olive-gray-cargo-khaki",
+        "nike-sport-band/midnight-navy-mystic-navy",
+        "nike-sport-band/anthracite-black",
+        "nike-sport-band/pure-platinum-black"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Nike",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Sport Band",
+        "color": "Anthracite/Black"
+      }
+    }
+  },
+  {
+    "id": 53,
+    "title": "Starlight Aluminum Case with Nike Sport Band",
+    "slug": "starlight-aluminum-case-with-nike-sport-band?color=Pure+Platinum%2FBlack",
+    "images": "aluminum/starlight/sport-band/nike-sport-band/05-pure-platinum-black.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 4,
+      "name": "Pure Platinum/Black",
+      "images": [
+        "nike-sport-band/magic-ember-crimson-bliss",
+        "nike-sport-band/olive-gray-cargo-khaki",
+        "nike-sport-band/midnight-navy-mystic-navy",
+        "nike-sport-band/anthracite-black",
+        "nike-sport-band/pure-platinum-black"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Nike",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Sport Band",
+        "color": "Pure Platinum/Black"
+      }
+    }
+  },
+  {
+    "id": 54,
+    "title": "Starlight Aluminum Case with Nike Sport Loop",
+    "slug": "starlight-aluminum-case-with-nike-sport-loop?color=Cargo+Khaki",
+    "images": "aluminum/starlight/sport-loop/nike-sport-loop/01-cargo-khaki.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 0,
+      "name": "Cargo Khaki",
+      "images": [
+        "nike-sport-loop/cargo-khaki",
+        "nike-sport-loop/black",
+        "nike-sport-loop/summit-white",
+        "nike-sport-loop/pride-edition"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Nike",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Sport Loop",
+        "color": "Cargo Khaki"
+      }
+    }
+  },
+  {
+    "id": 55,
+    "title": "Starlight Aluminum Case with Nike Sport Loop",
+    "slug": "starlight-aluminum-case-with-nike-sport-loop?color=Black",
+    "images": "aluminum/starlight/sport-loop/nike-sport-loop/02-black.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 1,
+      "name": "Black",
+      "images": [
+        "nike-sport-loop/cargo-khaki",
+        "nike-sport-loop/black",
+        "nike-sport-loop/summit-white",
+        "nike-sport-loop/pride-edition"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Nike",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Sport Loop",
+        "color": "Black"
+      }
+    }
+  },
+  {
+    "id": 56,
+    "title": "Starlight Aluminum Case with Nike Sport Loop",
+    "slug": "starlight-aluminum-case-with-nike-sport-loop?color=Summit+White",
+    "images": "aluminum/starlight/sport-loop/nike-sport-loop/03-summit-white.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 2,
+      "name": "Summit White",
+      "images": [
+        "nike-sport-loop/cargo-khaki",
+        "nike-sport-loop/black",
+        "nike-sport-loop/summit-white",
+        "nike-sport-loop/pride-edition"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Nike",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Sport Loop",
+        "color": "Summit White"
+      }
+    }
+  },
+  {
+    "id": 57,
+    "title": "Starlight Aluminum Case with Nike Sport Loop",
+    "slug": "starlight-aluminum-case-with-nike-sport-loop?color=Pride+Edition",
+    "images": "aluminum/starlight/sport-loop/nike-sport-loop/04-pride-edition.jpg",
+    "stock": 8,
+    "price": 399,
+    "swatch": {
+      "current": 3,
+      "name": "Pride Edition",
+      "images": [
+        "nike-sport-loop/cargo-khaki",
+        "nike-sport-loop/black",
+        "nike-sport-loop/summit-white",
+        "nike-sport-loop/pride-edition"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Nike",
+        "material": "Aluminum",
+        "finishes": "Starlight"
+      },
+      "band": {
+        "type": "Sport Loop",
+        "color": "Pride Edition"
+      }
+    }
+  },
+  {
+    "id": 58,
+    "title": "Silver Stainless Steel Case with Single Tour",
+    "slug": "silver-stainless-steel-case-with-single-tour?color=Bleu+Lin",
+    "images": "stainless-steel/silver/leather/single-tour/01-bleu-lin.jpg",
+    "stock": 8,
+    "price": 1249,
+    "swatch": {
+      "current": 0,
+      "name": "Bleu Lin",
+      "images": [
+        "single-tour/bleu-lin",
+        "single-tour/gold",
+        "single-tour/orange",
+        "single-tour/noir",
+        "single-tour/navy",
+        "single-tour/lime"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Hermes",
+        "material": "Stainless Steel",
+        "finishes": "Silver"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Bleu Lin"
+      }
+    }
+  },
+  {
+    "id": 59,
+    "title": "Silver Stainless Steel Case with Single Tour",
+    "slug": "silver-stainless-steel-case-with-single-tour?color=Gold",
+    "images": "stainless-steel/silver/leather/single-tour/02-gold.jpg",
+    "stock": 8,
+    "price": 1249,
+    "swatch": {
+      "current": 1,
+      "name": "Gold",
+      "images": [
+        "single-tour/bleu-lin",
+        "single-tour/gold",
+        "single-tour/orange",
+        "single-tour/noir",
+        "single-tour/navy",
+        "single-tour/lime"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Hermes",
+        "material": "Stainless Steel",
+        "finishes": "Silver"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Gold"
+      }
+    }
+  },
+  {
+    "id": 60,
+    "title": "Silver Stainless Steel Case with Single Tour",
+    "slug": "silver-stainless-steel-case-with-single-tour?color=Orange",
+    "images": "stainless-steel/silver/leather/single-tour/03-orange.jpg",
+    "stock": 8,
+    "price": 1249,
+    "swatch": {
+      "current": 2,
+      "name": "Orange",
+      "images": [
+        "single-tour/bleu-lin",
+        "single-tour/gold",
+        "single-tour/orange",
+        "single-tour/noir",
+        "single-tour/navy",
+        "single-tour/lime"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Hermes",
+        "material": "Stainless Steel",
+        "finishes": "Silver"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Orange"
+      }
+    }
+  },
+  {
+    "id": 61,
+    "title": "Silver Stainless Steel Case with Single Tour",
+    "slug": "silver-stainless-steel-case-with-single-tour?color=Noir",
+    "images": "stainless-steel/silver/leather/single-tour/04-noir.jpg",
+    "stock": 8,
+    "price": 1249,
+    "swatch": {
+      "current": 3,
+      "name": "Noir",
+      "images": [
+        "single-tour/bleu-lin",
+        "single-tour/gold",
+        "single-tour/orange",
+        "single-tour/noir",
+        "single-tour/navy",
+        "single-tour/lime"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Hermes",
+        "material": "Stainless Steel",
+        "finishes": "Silver"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Noir"
+      }
+    }
+  },
+  {
+    "id": 62,
+    "title": "Silver Stainless Steel Case with Single Tour",
+    "slug": "silver-stainless-steel-case-with-single-tour?color=Navy",
+    "images": "stainless-steel/silver/leather/single-tour/05-navy.jpg",
+    "stock": 8,
+    "price": 1249,
+    "swatch": {
+      "current": 4,
+      "name": "Navy",
+      "images": [
+        "single-tour/bleu-lin",
+        "single-tour/gold",
+        "single-tour/orange",
+        "single-tour/noir",
+        "single-tour/navy",
+        "single-tour/lime"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Hermes",
+        "material": "Stainless Steel",
+        "finishes": "Silver"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Navy"
+      }
+    }
+  },
+  {
+    "id": 63,
+    "title": "Silver Stainless Steel Case with Single Tour",
+    "slug": "silver-stainless-steel-case-with-single-tour?color=Lime",
+    "images": "stainless-steel/silver/leather/single-tour/06-lime.jpg",
+    "stock": 8,
+    "price": 1249,
+    "swatch": {
+      "current": 5,
+      "name": "Lime",
+      "images": [
+        "single-tour/bleu-lin",
+        "single-tour/gold",
+        "single-tour/orange",
+        "single-tour/noir",
+        "single-tour/navy",
+        "single-tour/lime"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Hermes",
+        "material": "Stainless Steel",
+        "finishes": "Silver"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Lime"
+      }
+    }
+  },
+  {
+    "id": 64,
+    "title": "Silver Stainless Steel Case with Gourmette Double Tour",
+    "slug": "silver-stainless-steel-case-with-gourmette-double-tour?color=Fauve",
+    "images": "stainless-steel/silver/leather/gourmette-double-tour/01-fauve.jpg",
+    "stock": 8,
+    "price": 1759,
+    "swatch": {
+      "current": 0,
+      "name": "Fauve",
+      "images": [
+        "gourmette-double-tour/fauve"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Hermes",
+        "material": "Stainless Steel",
+        "finishes": "Silver"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Fauve"
+      }
+    }
+  },
+  {
+    "id": 65,
+    "title": "Silver Stainless Steel Case with Circuit H Single Tour",
+    "slug": "silver-stainless-steel-case-with-circuit-h-single-tour?color=Biscuit%2FBleu+Electrique",
+    "images": "stainless-steel/silver/leather/circuit-h-single-tour/01-biscuit-bleu-electrique.jpg",
+    "stock": 8,
+    "price": 1359,
+    "swatch": {
+      "current": 0,
+      "name": "Biscuit/Bleu Electrique",
+      "images": [
+        "circuit-h-single-tour/biscuit-bleu-electrique",
+        "circuit-h-single-tour/noir-bleu-electrique",
+        "circuit-h-single-tour/rouge-h-noir"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Hermes",
+        "material": "Stainless Steel",
+        "finishes": "Silver"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Biscuit/Bleu Electrique"
+      }
+    }
+  },
+  {
+    "id": 66,
+    "title": "Silver Stainless Steel Case with Circuit H Single Tour",
+    "slug": "silver-stainless-steel-case-with-circuit-h-single-tour?color=Noir%2FBleu+Electrique",
+    "images": "stainless-steel/silver/leather/circuit-h-single-tour/02-noir-bleu-electrique.jpg",
+    "stock": 8,
+    "price": 1359,
+    "swatch": {
+      "current": 1,
+      "name": "Noir/Bleu Electrique",
+      "images": [
+        "circuit-h-single-tour/biscuit-bleu-electrique",
+        "circuit-h-single-tour/noir-bleu-electrique",
+        "circuit-h-single-tour/rouge-h-noir"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Hermes",
+        "material": "Stainless Steel",
+        "finishes": "Silver"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Noir/Bleu Electrique"
+      }
+    }
+  },
+  {
+    "id": 67,
+    "title": "Silver Stainless Steel Case with Circuit H Single Tour",
+    "slug": "silver-stainless-steel-case-with-circuit-h-single-tour?color=Rouge+H%2FNoir",
+    "images": "stainless-steel/silver/leather/circuit-h-single-tour/03-rouge-h-noir.jpg",
+    "stock": 8,
+    "price": 1359,
+    "swatch": {
+      "current": 2,
+      "name": "Rouge H/Noir",
+      "images": [
+        "circuit-h-single-tour/biscuit-bleu-electrique",
+        "circuit-h-single-tour/noir-bleu-electrique",
+        "circuit-h-single-tour/rouge-h-noir"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Hermes",
+        "material": "Stainless Steel",
+        "finishes": "Silver"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Rouge H/Noir"
+      }
+    }
+  },
+  {
+    "id": 68,
+    "title": "Silver Stainless Steel Case with Attelage Double Tour",
+    "slug": "silver-stainless-steel-case-with-attelage-double-tour?color=Bleu+Lin",
+    "images": "stainless-steel/silver/leather/attelage-double-tour/01-bleu-lin.jpg",
+    "stock": 8,
+    "price": 1399,
+    "swatch": {
+      "current": 0,
+      "name": "Bleu Lin",
+      "images": [
+        "attelage-double-tour/bleu-lin",
+        "attelage-double-tour/rouge-h",
+        "attelage-double-tour/gold"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Hermes",
+        "material": "Stainless Steel",
+        "finishes": "Silver"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Bleu Lin"
+      }
+    }
+  },
+  {
+    "id": 69,
+    "title": "Silver Stainless Steel Case with Attelage Double Tour",
+    "slug": "silver-stainless-steel-case-with-attelage-double-tour?color=Rouge+H",
+    "images": "stainless-steel/silver/leather/attelage-double-tour/02-rouge-h.jpg",
+    "stock": 8,
+    "price": 1399,
+    "swatch": {
+      "current": 1,
+      "name": "Rouge H",
+      "images": [
+        "attelage-double-tour/bleu-lin",
+        "attelage-double-tour/rouge-h",
+        "attelage-double-tour/gold"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Hermes",
+        "material": "Stainless Steel",
+        "finishes": "Silver"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Rouge H"
+      }
+    }
+  },
+  {
+    "id": 70,
+    "title": "Silver Stainless Steel Case with Attelage Double Tour",
+    "slug": "silver-stainless-steel-case-with-attelage-double-tour?color=Gold",
+    "images": "stainless-steel/silver/leather/attelage-double-tour/03-gold.jpg",
+    "stock": 8,
+    "price": 1399,
+    "swatch": {
+      "current": 2,
+      "name": "Gold",
+      "images": [
+        "attelage-double-tour/bleu-lin",
+        "attelage-double-tour/rouge-h",
+        "attelage-double-tour/gold"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Hermes",
+        "material": "Stainless Steel",
+        "finishes": "Silver"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Gold"
+      }
+    }
+  },
+  {
+    "id": 71,
+    "title": "Silver Stainless Steel Case with Attelage Single Tour",
+    "slug": "silver-stainless-steel-case-with-attelage-single-tour?color=Rouge+H",
+    "images": "stainless-steel/silver/leather/attelage-single-tour/01-rouge-h.jpg",
+    "stock": 8,
+    "price": 1299,
+    "swatch": {
+      "current": 0,
+      "name": "Rouge H",
+      "images": [
+        "attelage-single-tour/rouge-h",
+        "attelage-single-tour/gold"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Hermes",
+        "material": "Stainless Steel",
+        "finishes": "Silver"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Rouge H"
+      }
+    }
+  },
+  {
+    "id": 72,
+    "title": "Silver Stainless Steel Case with Attelage Single Tour",
+    "slug": "silver-stainless-steel-case-with-attelage-single-tour?color=Gold",
+    "images": "stainless-steel/silver/leather/attelage-single-tour/02-gold.jpg",
+    "stock": 8,
+    "price": 1299,
+    "swatch": {
+      "current": 1,
+      "name": "Gold",
+      "images": [
+        "attelage-single-tour/rouge-h",
+        "attelage-single-tour/gold"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Hermes",
+        "material": "Stainless Steel",
+        "finishes": "Silver"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Gold"
+      }
+    }
+  },
+  {
+    "id": 73,
+    "title": "Silver Stainless Steel Case with Single Tour Deployment Buckle",
+    "slug": "silver-stainless-steel-case-with-single-tour-deployment-buckle?color=Fauve",
+    "images": "stainless-steel/silver/leather/single-tour-deployment-buckle/01-fauve.jpg",
+    "stock": 8,
+    "price": 1499,
+    "swatch": {
+      "current": 0,
+      "name": "Fauve",
+      "images": [
+        "single-tour-deployment-buckle/fauve",
+        "single-tour-deployment-buckle/noir",
+        "single-tour-deployment-buckle/ebene"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Hermes",
+        "material": "Stainless Steel",
+        "finishes": "Silver"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Fauve"
+      }
+    }
+  },
+  {
+    "id": 74,
+    "title": "Silver Stainless Steel Case with Single Tour Deployment Buckle",
+    "slug": "silver-stainless-steel-case-with-single-tour-deployment-buckle?color=Noir",
+    "images": "stainless-steel/silver/leather/single-tour-deployment-buckle/02-noir.jpg",
+    "stock": 8,
+    "price": 1499,
+    "swatch": {
+      "current": 1,
+      "name": "Noir",
+      "images": [
+        "single-tour-deployment-buckle/fauve",
+        "single-tour-deployment-buckle/noir",
+        "single-tour-deployment-buckle/ebene"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Hermes",
+        "material": "Stainless Steel",
+        "finishes": "Silver"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Noir"
+      }
+    }
+  },
+  {
+    "id": 75,
+    "title": "Silver Stainless Steel Case with Single Tour Deployment Buckle",
+    "slug": "silver-stainless-steel-case-with-single-tour-deployment-buckle?color=Ebene",
+    "images": "stainless-steel/silver/leather/single-tour-deployment-buckle/03-ebene.jpg",
+    "stock": 8,
+    "price": 1499,
+    "swatch": {
+      "current": 2,
+      "name": "Ebene",
+      "images": [
+        "single-tour-deployment-buckle/fauve",
+        "single-tour-deployment-buckle/noir",
+        "single-tour-deployment-buckle/ebene"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Hermes",
+        "material": "Stainless Steel",
+        "finishes": "Silver"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Ebene"
+      }
+    }
+  },
+  {
+    "id": 76,
+    "title": "Space Black Stainless Steel Case with Circuit H Single Tour",
+    "slug": "space-black-stainless-steel-case-with-circuit-h-single-tour?color=Biscuit%2FBleu+Electrique",
+    "images": "stainless-steel/space-black/leather/circuit-h-single-tour/01-biscuit-bleu-electrique.jpg",
+    "stock": 8,
+    "price": 1359,
+    "swatch": {
+      "current": 0,
+      "name": "Biscuit/Bleu Electrique",
+      "images": [
+        "circuit-h-single-tour/biscuit-bleu-electrique",
+        "circuit-h-single-tour/noir-bleu-electrique",
+        "circuit-h-single-tour/rouge-h-noir"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Hermes",
+        "material": "Stainless Steel",
+        "finishes": "Space Black"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Biscuit/Bleu Electrique"
+      }
+    }
+  },
+  {
+    "id": 77,
+    "title": "Space Black Stainless Steel Case with Circuit H Single Tour",
+    "slug": "space-black-stainless-steel-case-with-circuit-h-single-tour?color=Noir%2FBleu+Electrique",
+    "images": "stainless-steel/space-black/leather/circuit-h-single-tour/02-noir-bleu-electrique.jpg",
+    "stock": 8,
+    "price": 1359,
+    "swatch": {
+      "current": 1,
+      "name": "Noir/Bleu Electrique",
+      "images": [
+        "circuit-h-single-tour/biscuit-bleu-electrique",
+        "circuit-h-single-tour/noir-bleu-electrique",
+        "circuit-h-single-tour/rouge-h-noir"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Hermes",
+        "material": "Stainless Steel",
+        "finishes": "Space Black"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Noir/Bleu Electrique"
+      }
+    }
+  },
+  {
+    "id": 78,
+    "title": "Space Black Stainless Steel Case with Circuit H Single Tour",
+    "slug": "space-black-stainless-steel-case-with-circuit-h-single-tour?color=Rouge+H%2FNoir",
+    "images": "stainless-steel/space-black/leather/circuit-h-single-tour/03-rouge-h-noir.jpg",
+    "stock": 8,
+    "price": 1359,
+    "swatch": {
+      "current": 2,
+      "name": "Rouge H/Noir",
+      "images": [
+        "circuit-h-single-tour/biscuit-bleu-electrique",
+        "circuit-h-single-tour/noir-bleu-electrique",
+        "circuit-h-single-tour/rouge-h-noir"
+      ]
+    },
+    "attributes": {
+      "case": {
+        "collection": "Hermes",
+        "material": "Stainless Steel",
+        "finishes": "Space Black"
+      },
+      "band": {
+        "type": "Leather",
+        "color": "Rouge H/Noir"
+      }
+    }
+  }
+]

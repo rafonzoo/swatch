@@ -1,0 +1,144 @@
+@import "../../Module/mixins";
+
+.safearea {
+  @include tablet {
+    max-width: 100%;
+  }
+
+  @include desktop {
+    max-width: 1200px;
+    margin: 2rem auto;
+  }
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  opacity: 1;
+  transition: opacity 200ms ease;
+
+  &:global(.loading) {
+    position: relative;
+    opacity: .5;
+  }
+}
+
+.product {
+  flex: 0 1 50%;
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  border: 1px solid var(--color-light);
+
+  @include desktop {
+    flex: 0 1 33.33333%;
+    border: none;
+  }
+}
+
+.link {
+  flex: 1 0 100%;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: inherit;
+  text-align: center;
+  position: relative;
+
+  > * {
+    flex: 1 0 100%;
+  }
+
+  &:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(0, 103, 244, .5) inset;
+  }
+
+  &:hover, &:focus {
+    .title { color: var(--color-link) }
+  }
+}
+
+.title {
+  font-size: inherit;
+  line-height: inherit;
+  font-weight: 600;
+  margin: 0 auto 0;
+  color: inherit;
+  transition: color 250ms ease;
+}
+
+.price {
+  margin: .5rem auto 3rem;
+}
+
+.image {
+  flex: 1 0 100%;
+  position: relative;
+  padding-top: 100%;
+  max-height: 0;
+  margin: 2rem 0;
+  // transform: translateZ(0);
+
+  img {
+    transition: opacity 200ms ease;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    max-width: 375px;
+    max-height: 375px;
+    width: calc(100% - 10px);
+    height: calc(100% - 10px);
+  }
+}
+
+.context {
+  flex: 1 0 auto;
+  display: flex;
+  flex-direction: column;
+  font-size: 14px;
+  line-height: 1.25rem;
+  letter-spacing: 0em;
+  width: 70%;
+  max-width: 200px;
+  margin: 0 auto 2rem;
+}
+
+.swatch {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  border-radius: 50%;
+  margin-top: auto;
+
+  img, img + span {
+    border-radius: 50%;
+  }
+
+  &:global(.lazy) img {
+    opacity: 0;
+  }
+
+  img {
+    opacity: 1;
+    display: inline-block;
+    transition: opacity 200ms ease;
+    will-change: opacity;
+  }
+
+  img + * {
+    margin-left: .25rem;
+  }
+
+  img + span {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 16px;
+    height: 16px;
+  }
+}

@@ -1,0 +1,41 @@
+@mixin mobile {
+  @media screen and (max-width: 767px) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media screen and (min-width: 768px) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media screen and (min-width: 1024px) {
+    @content;
+  }
+}
+
+@mixin safearea {
+  max-width: 87.5%;
+  margin-left: auto;
+  margin-right: auto;
+
+  @include tablet {
+    max-width: 720px;
+  }
+
+  @include desktop {
+    max-width: 980px;
+  }
+}
+
+@mixin component {
+  &::before,
+  &::after {
+    content: ' ';
+    display: table;
+    table-layout: fixed;
+    clear: both;
+  }
+}

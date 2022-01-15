@@ -1,0 +1,270 @@
+@import "../../Module/mixins";
+
+.nav:global(.locked) {
+  @include tablet {
+    min-height: 64px;
+    
+    .wrapper {
+      position: absolute;
+    }
+  }
+}
+
+.nav {
+  display: flex;
+  width: 100%;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  z-index: 999;
+  
+  @include mobile() {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0, .25);
+    bottom: 0;
+    left: 0;
+    z-index: 999;
+
+    &:not(:global(.show)) {
+      display: none;
+    }
+  }
+
+  .wrapper {
+    width: 100%;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    background-color: var(--color-light);
+    
+    @include mobile() {
+      background-color: white;
+      padding: 0;
+      overflow: auto;
+      height: 100%;
+      width: 100%;
+      bottom: 0;
+      position: absolute;
+    }
+
+    ul {
+      max-width: 87.5%;
+      margin: 0 auto;
+      top: 0;
+
+      @include tablet() {
+        max-width: calc(720px + 2rem);
+      }
+
+      @include desktop() {
+        max-width: calc(980px + 2rem);
+      }
+    }
+  }
+}
+
+.ul {
+  display: flex;
+  list-style: none;
+  position: relative;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+
+  @include mobile() {
+    flex-direction: column;
+    height: auto;
+  }
+
+  @include tablet() {
+    height: 336px;
+    overflow: hidden;
+    transition: height 400ms ease-in-out;
+
+    &:global(.hide) {
+      height: 48px;
+      transition: height 400ms ease-in-out;
+  
+      li > div + div a {
+        visibility: hidden;
+      }
+    }
+  }
+}
+
+.li {
+  flex-grow: 1;
+  font-size: 14px;
+  letter-spacing: 0;
+  overflow: hidden;
+  position: relative;
+  
+  > div a:focus {
+    outline: 3px auto rgba(0, 103, 244, .5);
+    outline-offset: -3px;
+  }
+  
+  > div:first-child {
+    font-weight: 600;
+
+    a {
+      display: flex;
+      align-items: center;
+      border-radius: .5rem;
+      padding: 14px;
+
+      @include tablet() {
+        padding-left: 1rem;
+        padding-right: 1rem;
+      }
+    }
+  
+    + div {
+      @include tablet() {
+        padding: 0 2px 1rem;
+      }
+  
+      p {
+        margin: 0;
+        line-height: 2;
+  
+        + p { margin-top: 0; }
+      }
+
+      a {
+        display: block;
+        padding: 3px 3px 3px 14px;
+        border-radius: 8px;
+
+        @include tablet() {
+          padding-left: 1rem;
+          padding-right: 1rem;
+          
+          &:hover { color: var(--color-link); }
+        }
+        
+        &:global(.active) {
+          border-radius: 8px;
+          background-color: var(--color-white);
+
+          @include mobile {
+            background-color: var(--color-light);
+          }
+        }
+      }
+    }
+  }
+
+  @include mobile() {
+    p:last-of-type {
+      padding-bottom: 1rem;
+    }
+    
+    + li > div:first-child a::before {
+      content: ' ';
+      display: block;
+      width: calc(100% - 2rem);
+      height: 1px;
+      position: absolute;
+      top: 0%;
+      background-color: #ddd;
+    }
+    
+    &:global(.collapsed) {
+      > div + div {
+        transition: height 250ms ease-in-out;
+        height: auto;
+      }
+    }
+    
+    &:not(:global(.collapsed)) {
+      > div + div {
+        transition: height 250ms ease-in-out;
+        height: 0;
+
+        p > a {
+          visibility: hidden;
+        }
+      }
+    }
+  }
+}
+
+.a {
+  text-decoration: none;
+  color: inherit;
+  
+  &:global(.disabled) {
+    opacity: 0.3;
+    pointer-events: none;
+  }
+  
+  @media screen and (min-width: 768px) {
+    :focus { outline: none; }
+  }
+}
+
+.close {
+  display: none;
+
+  @include mobile() {
+    display: block;
+    margin: 2rem auto 3rem 0;
+
+    > a {
+      text-decoration: none;
+    }
+  }
+}
+
+// background-color: rgb(0, 103, 244);
+
+.content {
+  height: 3000px;
+}
+
+.sticky {
+  display: none;
+
+  @include mobile() {
+    display: block;
+    position: sticky;
+    position: -webkit-sticky;
+    width: 100vw;
+    background-color: var(--color-light);
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    z-index: 10;
+    top: 0;
+
+    &::before {
+      content: ' ';
+      clear: both;
+      display: table;
+    }
+
+    > div {
+      display: flex;
+      align-items: center;
+      height: 48px;
+
+      > a + div {
+        margin-left: auto;
+      }
+    }
+
+    a {
+      display: inline-flex;
+      align-items: center;
+      text-decoration: none;
+      color: currentColor;
+
+      svg {
+        margin-right: 4px;
+        width: 1.25rem;
+        height: 1.25rem;
+      }
+    }
+  }
+}

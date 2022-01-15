@@ -1,0 +1,50 @@
+@import "../../Module/mixins";
+
+.shop {
+  border-top: 1px solid #ddd;
+}
+
+.div {
+  @include safearea;
+  text-align: center;
+  margin: 64px auto;
+
+  @include tablet {
+    margin: 80px auto;
+  }
+}
+
+.h1,
+.p {
+  margin: 0;
+}
+
+.h1 {
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 43px;
+  letter-spacing: -0.021em;
+
+  @include tablet {
+    font-size: 56px;
+    line-height: 67px;
+    letter-spacing: -.02em;
+  }
+}
+
+.p {
+  font-size: 19px;
+  font-weight: 400;
+  letter-spacing: -0.021em;
+  margin-top: .5rem;
+
+  @media screen and (min-width: 375px) {
+    span { display: block; }
+  }
+
+  @include tablet {
+    font-size: 24px;
+    line-height: 34px;
+    margin-top: 1rem;
+  }
+}
